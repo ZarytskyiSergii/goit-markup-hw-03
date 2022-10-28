@@ -300,7 +300,6 @@ nav {
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
-    /* letter-spacing: 0.03em; */
     color: #212121;
     cursor: pointer;
     background: #F5F4FA;
@@ -325,13 +324,9 @@ nav {
 .filters-text {
     font-size: 16px;
     line-height: 1.9;
-    /* letter-spacing: 0.03em; */
     color: #757575;
     margin: 0px 24px 20px 24px;
 }
-
-
-
 
 
 footer {
