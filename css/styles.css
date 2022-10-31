@@ -176,10 +176,7 @@ nav {
     line-height: 1.17;
     text-align: center;
     color: #212121;
-}
-
-.portfolio {
-    padding-bottom: 94px;
+    margin-bottom: 50px;
 }
 
 .portfolio-title {
@@ -267,6 +264,8 @@ nav {
 
 .projects-info {
     border-bottom: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
     padding: 20px 24px;
 }
 
@@ -330,6 +329,11 @@ footer {
 .address {
     margin-top: 20px;
 }
+
+.address li:not(:last-child) {
+    margin-bottom: 9px;
+}
+
 
 .address a {
     font-size: 14px;
